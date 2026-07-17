@@ -1,7 +1,5 @@
 # 💫 About Me:
-Computer Science (Data Science) undergraduate at AKGEC with expertise in MERN Stack development, backend engineering, and scalable web applications. Skilled in React.js, Next.js, Node.js, Express.js, MongoDB, and REST API development, with experience building real-time applications using Socket.IO. Solved 300+ DSA problems, achieved a 1550+ LeetCode rating, and earned a 2★ CodeChef rating. Passionate about software engineering, problem-solving, and building impactful products through clean, scalable solutions.
-.<br><br>I am actively seeking software engineering, backend development, and full-stack development internship and entry-level opportunities where I can contribute to building scalable and impactful products.
-
+I'm a Computer Science engineer passionate about applying my skills to solve real-world problems, currently working on open-source contributions and my personal project, Kisaan-Setu.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/priyanshu-chandra-6420b2230/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/32798081/priyanshu) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Priyanshu214965/communities/explore) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:priyanshu2507.rjs@gmail.com) 
