@@ -12,7 +12,7 @@ I enjoy understanding how systems work, debugging problems and writing code that
 
 ---
 
-## 🌐 Connect with me
+##  Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanshu-chandra-6420b2230/)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-Profile-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/32798081/priyanshu)
@@ -21,7 +21,7 @@ I enjoy understanding how systems work, debugging problems and writing code that
 
 ---
 
-## 💻 Tech Stack
+##  Tech Stack
 
 **Languages**
 
