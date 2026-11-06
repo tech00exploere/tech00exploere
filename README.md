@@ -70,7 +70,7 @@ I enjoy understanding how systems work, debugging problems and writing code that
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 - **[Kisaan Setu](https://github.com/tech00exploere/kisaan-setu)** — An AI-enabled agricultural platform connecting farmers, buyers and organizations.
 - **[Connectly](https://github.com/tech00exploere/connectly--)** — A real-time messaging application built with the MERN stack and Socket.IO.
